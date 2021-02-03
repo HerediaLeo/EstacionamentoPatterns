@@ -9,10 +9,7 @@ import controller.VeiculoController;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Raphaelli Bellini
- */
+
 public class LogSingleton {
     private static LogSingleton instance;
     public String placa;
